@@ -3,10 +3,10 @@
     "gameFilesVersionCode": 100,
     "URL_GAME_FILES" : "https://",
     "URL_GAME_FILES_UPD" : "https://",
-    "URL_VK": "https://vk.com/izmlvcr",
+    "URL_VK": "https://vk.com/",
     "URL_DISCORD": "https://discord.gg/",
     "URL_YOUTUBE": "https://t.me/",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
+    "URL_FORUM": "https:///",
+    "URL_DONATE": "https://",
     "URL_CLIENT": "https://api.ru-state.online/test/client.apk"
 }
