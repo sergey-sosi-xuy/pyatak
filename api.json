@@ -1,8 +1,8 @@
 {
     "clientVersionCode": 100,
     "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://",
-    "URL_GAME_FILES_UPD" : "https://",
+    "URL_GAME_FILES" : "http://a0761535.xsph.ru/game.zip",
+    "URL_GAME_FILES_UPD" : "http://a0761535.xsph.ru/upd.zip",
     "URL_VK": "https://vk.com/",
     "URL_DISCORD": "https://discord.gg/",
     "URL_YOUTUBE": "https://t.me/",
